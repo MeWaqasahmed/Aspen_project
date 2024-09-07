@@ -1,10 +1,10 @@
-# Interia - Interior Design Website🏠✨🎨
+# Aspen - Interior Design Website🏠✨🎨
 
-🏠 This is the code for the Interia website, which offers interior design solutions for homes. The website provides various features such as design ideas, booking quotes, and information about the company. It is built using HTML, CSS, and JavaScript.
+🏠 This is the code for the Aspen website, which offers interior design solutions for homes. The website provides various features such as design ideas, booking quotes, and information about the company. It is built using HTML, CSS, and JavaScript.
 
 ## Visit the Website
 
-🌐 To visit the Interia website, click [Here](https://meet244.github.io/Interia/).
+🌐 To visit the Aspen website, click [Here](https://github.com/MeWaqasahmed/Aspen_project.git).
 
 ## File Structure
 
